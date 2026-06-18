@@ -1,0 +1,7 @@
+# Exemplo de automacao BKSX
+print Iniciando automacao...
+mkdir projetos
+cd projetos
+print Pasta projetos criada.
+ls
+print Fim do script.

@@ -33,7 +33,7 @@ start:
 
    
     mov ah, 0x02
-    mov al, 30          
+    mov al, 31          ; ler 31 setores (ajuste para cobrir todo stage2)
     mov ch, 0
     mov cl, 2          
     mov dh, 0

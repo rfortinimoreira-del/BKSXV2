@@ -1,0 +1,8 @@
+# Exemplo de script BKSX
+# Linhas que começam com # são comentários
+print Iniciando teste do BKSX...
+mkdir projetos_bks
+cd projetos_bks
+print Pasta projetos_bks criada.
+ls
+print Fim do script.

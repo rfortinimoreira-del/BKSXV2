@@ -1,0 +1,7 @@
+# Exemplo de variaveis e matematica no BKSX
+set x 10
+set y 5
+set total (x)+(y)*2
+print (total)
+set ativo true
+print (ativo)
